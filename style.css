@@ -255,7 +255,6 @@ img {
 
 .header__title {
   flex: 1;
-  max-width: 115rem;
   display: block;
   align-content: center;
   justify-content: center;
